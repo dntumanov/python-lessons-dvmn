@@ -8,6 +8,9 @@
 4. Установить все зависимости: pip install -r requirements.txt
 
 ## Использование
-Запустить в терминале `python main.py`
+Запустить в терминале 
+```python
+python main.py
+```
 
 >[назад](../README.md)
